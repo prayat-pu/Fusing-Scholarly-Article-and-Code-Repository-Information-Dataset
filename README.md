@@ -1,5 +1,7 @@
 # Fusing-Scholarly-Article-and-Code-Repository-Information-Dataset
 This repository contains a curated dataset aimed at exploring the relationships between scholarly research articles and their corresponding software code repositories (e.g., GitHub).
+The complete dataset can be accessed at [https://drive.google.com/drive/folders/1Yj5melSjw8a8JI1X0Imo61pzfdSzW6cF?usp=drive_link](https://drive.google.com/drive/folders/1Yj5melSjw8a8JI1X0Imo61pzfdSzW6cF?usp=drive_link).
+
 
 
 This file, `Dataset for Fusing Scholarly Article and Code Repository Information.csv`, contains a rich dataset designed to link scholarly publications with their corresponding code repositories. It aims to facilitate research and analysis in areas such as:
